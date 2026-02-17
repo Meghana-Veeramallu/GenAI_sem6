@@ -30,7 +30,7 @@ Run **all three models** on the following three tasks:
 3.  **Question Answering**: Ask them to answer a specific question based on a context.
 ---
 
-## 2. The Project: Personal Diary Tracker(`Diary_MoodTracker.ipynb`)
+## 3. The Project: Personal Diary Tracker(`Diary_MoodTracker.ipynb`)
 
 **Goal**: Input daily diary entries and track the "Mood Graph" over a week.
 **Tech**: Sentiment analysis on daily text.
