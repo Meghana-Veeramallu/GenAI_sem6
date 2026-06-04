@@ -1,6 +1,6 @@
 # Unit 2: Generative AI Concepts & LangChain
 
-Hands-on materials for Unit 2. This covers the foundations of building LLM applications using LangChain, Prompt Engineering, and RAG.
+This covers the foundations of building LLM applications using LangChain, Prompt Engineering, and RAG.
 
 
 ### 1. LangChain Foundation
